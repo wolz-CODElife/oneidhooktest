@@ -6,7 +6,7 @@ import { OneidProvider } from 'react-oneid'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <OneidProvider apiKey="vxCgAQ==.fUF/4jTXK8FTGqqt31iDUIpMkYXr3y+Lwxy9pMtVW2Y=" siteDomain="http://localhost:3000">
+  <OneidProvider apiKey="OWg0dI.73HPvF5TXk2JYqg403LGqd" siteDomain="http://localhost:3000">
     <App />
   </OneidProvider>
 );
